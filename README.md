@@ -1,5 +1,5 @@
 # Wireless Req
-Students' Request Management System
+Students' Requests Management System
 
 Team Members:
 - Kajanan Selvanesan
