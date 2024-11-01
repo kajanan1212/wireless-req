@@ -1,10 +1,7 @@
-# Request-Management-Sysytem
-Semester 02 - Project, Request Management System.
+# Wireless Req
+Students' Request Management System
 
 Team Members:
-    Kajanan Selvanesan
-    Lakshika Tharmalingam
-    Sivakajan Sivaparan
-
-
-// Team mates Update your name and delete this comment
+- Kajanan Selvanesan
+- Laksika Tharmalingam
+- Sivakajan Sivaparan
